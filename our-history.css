@@ -1,0 +1,31 @@
+.photos{
+    width: 40%;
+}
+.slides{
+display: flex;
+text-align: -webkit-center;
+background-color: rgb(151, 146, 155);
+}
+.products{
+    display: flex;
+    justify-content: space-evenly;
+}
+.media img{
+    width: 30%;
+}
+.footer-style{
+        display: flex;
+        background-color: whitesmoke;
+        z-index: 2; 
+    }
+    .social-media{
+        display: flex;
+    }
+    
+    .social-name{
+        display: flex;
+        align-content: center;
+    }
+.menshop{
+    height: 35% ;
+}

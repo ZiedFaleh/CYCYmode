@@ -1,0 +1,51 @@
+.bodyStyle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: whitesmoke;
+}
+.marchendise{
+    padding-bottom: 5%;
+}
+.bigcard{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.price{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.media img{
+    width: 30%;
+}
+.footer-style{
+    display: flex;
+    background-color: whitesmoke;
+}
+.social-name{
+    display: flex;
+    align-content: center;
+}
+.social-media{
+    display: flex;
+}
+body{
+    background-color: whitesmoke;
+}
+.newcollection{
+    color: red;
+}
+.buttonsmode{
+    display: flex;
+    justify-content: space-evenly;
+}
+.cashier{
+    width: 200%;
+}
+.cashier-btn{
+    width: 10%;
+}
